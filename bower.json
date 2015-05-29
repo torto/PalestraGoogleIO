@@ -1,0 +1,11 @@
+{
+  "name": "bespoke-theme-mozilla-sandstone",
+  "version": "0.0.2",
+  "main": "./dist/bespoke-theme-mozilla-sandstone.js",
+  "ignore": [
+    "**/.*"
+  ],
+  "dependencies": {
+    "bespoke.js": ">=1.0.0"
+  }
+}
